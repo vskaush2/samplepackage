@@ -11,10 +11,10 @@ $ conda activate venv
 $ pip install .
 ```
 
-## Usage 
+## Usage
 
 ```python
-from pycounts.pycounts import count_words
+from pycounts.samplepackage import count_words
 from pycounts.plotting import plot_words
 import matplotlib.pyplot as plt
 

@@ -1,3 +1,7 @@
-# v0.1.0 (24/08/2021)
+# Changelog
 
-* Always update the changelog when releasing a new version of package and describe new, notable features
+<!--next-version-placeholder-->
+
+## v1.0.0 (08/11/2021)
+
+- First release of `samplepackage`
