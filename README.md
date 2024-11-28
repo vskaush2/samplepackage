@@ -1,6 +1,6 @@
-# pycounts
+# samplepackage
 
-Calculate word counts in a text file!
+This is a sample package designed to be used as a template for creating a Python package.
 
 ## Installation
 
@@ -9,10 +9,12 @@ If `samplepackage` is published in PyPI, then run
 $ pip install samplepackage
 ```
 
-Otherwise, download the package from GitHub
+Otherwise, download the package from GitHub, change directory to the location of `samplepackage`, and run
 ```bash
 $ pip install .
 ```
+It is highly recommended to use a virtual environment when installing `samplepackage`. 
+Please see the [Virtual Environments](#Virtual-Environments) section for more information on creating a virtual environment.
 
 ## Usage
 
