@@ -14,7 +14,7 @@ Otherwise, download the package from GitHub, change directory to the location of
 $ pip install .
 ```
 It is highly recommended to use a virtual environment when installing `samplepackage` locally. 
-Please see [Local Installation](#Local Installation) section for more information on this.
+
 
 ## Usage
 
