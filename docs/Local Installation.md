@@ -1,6 +1,6 @@
 # Local Installation
 
-Local installation of `pycounts`.
+Local installation of `samplepackage`.
 
 
 ## Installation
