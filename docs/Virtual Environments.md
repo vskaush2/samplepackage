@@ -2,9 +2,8 @@
 
 How to set up a virtual environment.
 
-## Installation
-
-To create a virtual environment named `ENVIRONMENT NAME` using Conda, run this a Terminal shell.
+## Conda Installation
+For this, you need to install Conda first. To create a virtual environment named `ENVIRONMENT NAME` using Conda, run this a Terminal shell.
 ```bash
 $ conda create --name ENVIRONMENT NAME
 $ conda activate ENVIRONMENT NAME

@@ -1,3 +1,5 @@
+When you are ready to publish your package, run the following commands.
+
 ## Publishing 
 
 ```bash

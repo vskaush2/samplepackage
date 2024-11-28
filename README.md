@@ -4,8 +4,14 @@ Calculate word counts in a text file!
 
 ## Installation
 
+If `samplepackage` is published in PyPI, then run
 ```bash
-$ pip3 install samplepackage
+$ pip install samplepackage
+```
+
+Otherwise, download the package from GitHub
+```bash
+$ pip install .
 ```
 
 ## Usage
@@ -26,6 +32,6 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`samplepackage` was greatly inspired by the `pycounts` package was created by Tomas Beuzen. It is licensed under the terms
+`samplepackage` was greatly inspired by the `pycounts` package that was created by Tomas Beuzen. It is licensed under the terms
 of the MIT license.
 
