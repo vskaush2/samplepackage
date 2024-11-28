@@ -1,6 +1,7 @@
 # Helpful Git Commands
 
-This contains very helpful `git` commands for reference.
+This contains very helpful `git` commands for reference. Ideally, an IDE such as PyCharm has these commands as clickable actions.
+Otherwise, the following commands can be run on the terminal.
 
 If you are not already in the project directory, always run this before doing anything else.
 ```bash

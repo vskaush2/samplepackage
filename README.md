@@ -13,8 +13,8 @@ Otherwise, download the package from GitHub, change directory to the location of
 ```bash
 $ pip install .
 ```
-It is highly recommended to use a virtual environment when installing `samplepackage`. 
-Please see the [Virtual Environments](#Virtual-Environments) section for more information on creating a virtual environment.
+It is highly recommended to use a virtual environment when installing `samplepackage` locally. 
+Please see [Local Installation](#Local Installation) section for more information on this.
 
 ## Usage
 
